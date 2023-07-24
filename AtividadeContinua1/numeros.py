@@ -1,7 +1,4 @@
-# Programação Orientada a Objetos
-# AC01 ADS-EaD - Números especiais
-#
-# Email Impacta: vivian.camargo@aluno.faculdadeimpacta.com.br
+# Números especiais
 
 def eh_primo(n):
     contador = 0

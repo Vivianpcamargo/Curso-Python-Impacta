@@ -1,23 +1,3 @@
-"""
-Atenção: NÃO ENTREGUE ESSE ARQUIVO JUNTO COM A SUA SUBMISSÃO
-
-Este é exemplo para testar as funções do módulo números,
-aqui estão apenas alguns testes, que não incluem todos os testes
-que serão realizados durante a correção. Mas se você implementou
-a solução das funções e "passou" em todos os testes aqui, então
-sua solução também deverá passar nos testes de correção.
-
-Sinta-se a vontade para editar, comentar, adicionar ou excluir
-partes desse arquivo, conforme julgar necessário.
-
-* Copiem esse arquivo para a mesma pasta do arquivo numeros.py
-
-* Para executá-lo, podem usar a seta verde no canto superior direito
-ou então executar o comando seguinte no terminal:
-    Windows: > py test_numeros.py
-    Linux e Mac: $ python3 test_numeros.py
-"""
-
 import numeros
 
 

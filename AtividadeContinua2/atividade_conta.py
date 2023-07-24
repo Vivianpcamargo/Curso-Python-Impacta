@@ -1,8 +1,4 @@
-# Programação Orientada a Objetos
-# AC02 ADS-EaD - Implementação de classes
-#
-# Email Impacta: vivian.camargo@aluno.faculdadeimpacta.com.br
-
+# Implementação de classes
 
 class Conta:
 
