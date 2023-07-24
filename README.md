@@ -1,6 +1,7 @@
 # :bookmark: Programação Orientada a Objetos
 
 :label: Tecnologia Principal: Python
+<br> :bricks: Framework: Flask
 <br> :page_facing_up: Padronização: pep8
 
 ## :dart: Sobre
